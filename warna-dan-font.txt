@@ -1,0 +1,8 @@
+Warna
+Background Color: #f1f5f8
+Title Color: #0f2a41
+Horizontal Line Main Title, Button, Price & Border Menu Color: #c29957
+Horizontal Line Product Title: #d4dde4
+
+Font
+sans-serif ajalah
